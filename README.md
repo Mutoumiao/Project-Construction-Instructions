@@ -59,6 +59,33 @@
 - 产品送代
 - Bug定位
 - 新功能开发
+
+#### 项目构建
+
+**项目装备**
+
+    1、创建目录
+    2、初始化
+        npm intit  =>  package.json
+    3、创建业务目录
+        app => js => main、App.vue ...
+        app => css => reset.scss
+        app => views => index.html
+
+**创建配置文件**
+    
+    1、创建配置文件
+        webpack.config.js
+    2、文件配置
+    
+        entry (入口)          resolve 
+        module (配置)         devtool  
+        plugins (插件)        devServer (开启服务)
+        output (输出)
+
+        基础配置               进阶配置
+
+
 ### 业务开发
 > 主要处理业务流程,通过自行开发的流程来完成产品的开发工作
 

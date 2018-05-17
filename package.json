@@ -1,0 +1,19 @@
+{
+  "name": "project-construction-instructions",
+  "version": "1.0.0",
+  "description": "> 在开发一个项目时,我们会有一系列的流程,按照该流程,在这里详细的说明",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutoumiao/Project-Construction-Instructions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mutoumiao/Project-Construction-Instructions/issues"
+  },
+  "homepage": "https://github.com/Mutoumiao/Project-Construction-Instructions#readme"
+}
